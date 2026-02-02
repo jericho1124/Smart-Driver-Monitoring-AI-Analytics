@@ -80,7 +80,7 @@ streamlit run demos/streamlit_app.py
 
 Visit http://localhost:8501 to interact with the demo dashboard.
 
-## 📊 Modules Overview
+## Modules Overview
 
 ### Module 1: Data Preparation
 - Generate synthetic telematics data
