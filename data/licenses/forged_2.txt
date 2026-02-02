@@ -1,0 +1,16 @@
+
+LICENSE IMAGE INFO (FORGED)
+===========================
+Name: Pers0n2 Ahmed Sm1th  (NOTE: Contains digit substitutions)
+License No: UAE-DXB-XXXXXX (NOTE: Invalid format)
+DOB: 1985-13-45 (NOTE: Invalid date)
+Expiry: 2020-03-15 (NOTE: Expired)
+Category: Heavy Vehicle (NOTE: Mismatch)
+
+FORGERY INDICATORS:
+- Inconsistent fonts
+- Blurry edges around photo
+- Missing security features
+
+Note: This is a placeholder. In the real project,
+create modified images using OpenCV.

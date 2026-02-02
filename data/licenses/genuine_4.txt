@@ -1,0 +1,11 @@
+
+LICENSE IMAGE INFO (GENUINE)
+===========================
+Name: Person4 Ahmed Smith
+License No: UAE-DXB-123456
+DOB: 1985-03-15
+Expiry: 2026-03-15
+Category: Light Vehicle
+
+Note: This is a placeholder. In the real project, 
+use actual scanned license images.
