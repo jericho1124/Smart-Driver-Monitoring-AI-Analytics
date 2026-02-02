@@ -1,4 +1,4 @@
-# 🚗 Smart Driver Monitoring - AI & Analytics
+# Smart Driver Monitoring - AI & Analytics
 
 A comprehensive AI-powered system for driver monitoring, including:
 - **Driver Rating Prediction** - ML models to predict driver ratings from telematics
@@ -33,7 +33,7 @@ Week4/
 └── README.md
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Setup Environment
 
@@ -114,7 +114,7 @@ Visit http://localhost:8501 to interact with the demo dashboard.
 - Image quality analysis (OpenCV)
 - CNN classification (MobileNetV2)
 
-## 🛠️ Dependencies
+## Dependencies
 
 Core libraries:
 - **Data**: pandas, numpy
@@ -125,13 +125,13 @@ Core libraries:
 - **Vision/OCR**: opencv-python, pytesseract
 - **Demo**: streamlit
 
-## 📝 Notes
+## Notes
 
 - **Tesseract OCR**: Install separately from https://github.com/tesseract-ocr/tesseract
 - **Privacy**: All data is synthetic. In production, use anonymized data.
 - **Models**: Trained models are saved as `.joblib` files in `src/`
 
-## 📈 Metrics & Evaluation
+## Metrics & Evaluation
 
 | Model | Task | Primary Metric |
 |-------|------|----------------|
@@ -139,15 +139,6 @@ Core libraries:
 | Sentiment Analysis | Classification | F1, Accuracy |
 | Violation Detection | Classification | Precision, Recall, AUC |
 | Forgery Detection | Classification | Precision (minimize false accusations) |
-
-## 🎯 Learning Objectives
-
-By completing this project, you will:
-1. Build end-to-end ML pipelines for real-world problems
-2. Work with telematics, text, and image data
-3. Handle class imbalance and feature engineering
-4. Deploy models in a simple web interface
-5. Understand explainability (SHAP, feature importance)
 
 ---
 
